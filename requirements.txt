@@ -1,0 +1,71 @@
+# Requirements (Dependências)
+
+## Dependências do Projeto
+
+### Python
+- **Versão:** 3.8 ou superior
+- **Download:** https://www.python.org/downloads/
+
+### Bibliotecas Padrão (Built-in)
+Todas as bibliotecas necessárias já vêm instaladas com Python:
+
+```
+tkinter      - Interface gráfica
+datetime     - Data e hora
+typing       - Type hints
+```
+
+### Nenhuma Instalação Adicional Necessária!
+
+Este projeto utiliza apenas as bibliotecas padrão do Python.  
+**Não é necessário instalar nada com `pip`.**
+
+---
+
+## Como Verificar se Tkinter está Instalado
+
+### Windows
+```bash
+python -m tkinter
+```
+
+Se uma janela aparecer, Tkinter está instalado ✅
+
+### Linux
+```bash
+python3 -m tkinter
+```
+
+Se necessário instalar:
+```bash
+sudo apt-get install python3-tk
+```
+
+### macOS
+Tkinter já vem com Python no macOS ✅
+
+---
+
+## Como Executar
+
+```bash
+# 1. Navegue até a pasta src
+cd ProjetoFinal/src
+
+# 2. Execute
+python main.py
+```
+
+---
+
+## Estrutura de Compatibilidade
+
+| Sistema | Python | Tkinter | Status |
+|---------|--------|---------|--------|
+| Windows | 3.8+ | Built-in | ✅ |
+| Linux | 3.8+ | apt-get | ✅ |
+| macOS | 3.8+ | Built-in | ✅ |
+
+---
+
+*Última atualização: 29 de abril de 2026*
