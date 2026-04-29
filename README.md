@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gerenciamento de Usuários e Produtos
 
 Projeto da disciplina de Engenharia de Software - 2° Desenvolvimento de Sistemas
@@ -54,3 +55,6 @@ ProjetoFinal/
 - (Nome 2)  
 - (Nome 3)
 - (Nome 4)
+=======
+# PROJETOEPIS
+>>>>>>> 4fe7567944bcb15f3e7677e58883ba66fa498398
